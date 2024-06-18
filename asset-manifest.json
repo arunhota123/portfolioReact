@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolioReact/static/css/main.d72d44a9.css",
+    "main.js": "/portfolioReact/static/js/main.d76bba50.js",
+    "static/js/453.cdf97030.chunk.js": "/portfolioReact/static/js/453.cdf97030.chunk.js",
+    "static/media/Designer__6_-removebg-preview (1).png": "/portfolioReact/static/media/Designer__6_-removebg-preview (1).da298739899a28b8c7cb.png",
+    "static/media/Screenshot 2024-05-23 170322.jpg": "/portfolioReact/static/media/Screenshot 2024-05-23 170322.b6b1a0e23c7c53eb2f21.jpg",
+    "static/media/1677254417161 (1).jpg": "/portfolioReact/static/media/1677254417161 (1).30e0e12afa5d46ce8534.jpg",
+    "static/media/1_qn44K8C2-ojteEgbGAgnYA.png": "/portfolioReact/static/media/1_qn44K8C2-ojteEgbGAgnYA.0da8680ccc8c35c1cd57.png",
+    "static/media/Untitled design (2).png": "/portfolioReact/static/media/Untitled design (2).cf906abe2b4a9214c5d0.png",
+    "index.html": "/portfolioReact/index.html",
+    "main.d72d44a9.css.map": "/portfolioReact/static/css/main.d72d44a9.css.map",
+    "main.d76bba50.js.map": "/portfolioReact/static/js/main.d76bba50.js.map",
+    "453.cdf97030.chunk.js.map": "/portfolioReact/static/js/453.cdf97030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72d44a9.css",
+    "static/js/main.d76bba50.js"
+  ]
+}
